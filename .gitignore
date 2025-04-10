@@ -1,0 +1,16 @@
+# Escludi la build
+dist/
+
+# (Facoltativo) Escludi anche le dipendenze
+node_modules/
+dist-electron/
+
+# (Facoltativo) Log, output temporanei
+*.log
+*.tmp
+
+# (Facoltativo) VS Code settings
+.vscode/
+
+# (Facoltativo) File di sistema macOS
+.DS_Store
